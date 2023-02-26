@@ -1,0 +1,16 @@
+{
+    "name": "PatternsAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0b963aaa3a98f3c4e9a5e816cf36297a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
