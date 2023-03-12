@@ -5,7 +5,19 @@ namespace Patterns.Design.Singleton
 {
     public class Singleton<T> : MonoBehaviour where T : Singleton<T>
     {
+        /// <summary>
+        /// Instance variable <c>instance</c> store instance of this MonoBehaviour.
+        /// </summary>
         private static T instance;
+
+        /// <summary>
+        /// Instance variable <c>searchForInstance</c> causes a scene search to find the <c>T</c> instance.
+        /// </summary>
+        private static bool searchForInstance = true;
+
+        /// <summary>
+        /// 
+        /// </summary>
         public static T Instance
         {
             get
@@ -30,13 +42,21 @@ namespace Patterns.Design.Singleton
                 return instance;
             }
         }
+
+        /// <summary>
+        /// 
+        /// </summary>
         public static bool IsInitialized => instance != null;
 
-        private static bool searchForInstance = true;
-
+        /// <summary>
+        /// 
+        /// </summary>
         public static void AssertIsInitialized() =>
             Debug.Assert(IsInitialized, string.Format("The {0} singleton has not been initialized.", typeof(T).Name));
 
+        /// <summary>
+        /// 
+        /// </summary>
         protected virtual void Awake()
         {
             if (IsInitialized && instance != this)
@@ -56,6 +76,9 @@ namespace Patterns.Design.Singleton
             }
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         protected virtual void OnDestroy()
         {
             if (instance == this)
