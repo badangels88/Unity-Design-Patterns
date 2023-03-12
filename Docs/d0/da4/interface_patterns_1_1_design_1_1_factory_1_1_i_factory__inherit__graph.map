@@ -1,0 +1,6 @@
+<map id="Patterns.Design.Factory.IFactory" name="Patterns.Design.Factory.IFactory">
+<area shape="rect" id="node1" title="Base interface for any factory." alt="" coords="142,5,309,112"/>
+<area shape="rect" id="node2" href="$d4/d1d/interface_patterns_1_1_architectural_1_1_m_v_c_1_1_interface_1_1_i_controller_factory.html" title=" " alt="" coords="5,160,227,267"/>
+<area shape="rect" id="node4" href="$de/d1b/class_patterns_1_1_design_1_1_factory_1_1_base_factory.html" title=" " alt="" coords="251,160,418,267"/>
+<area shape="rect" id="node3" href="$d8/d10/class_patterns_1_1_architectural_1_1_m_v_c_1_1_abstract_controller_factory.html" title=" " alt="" coords="115,315,336,465"/>
+</map>

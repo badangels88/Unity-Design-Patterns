@@ -1,0 +1,6 @@
+<map id="Patterns.Architectural.MVC.AbstractControllerFactory&lt; T &gt;" name="Patterns.Architectural.MVC.AbstractControllerFactory&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="64,285,285,436"/>
+<area shape="rect" id="node2" href="$de/d1b/class_patterns_1_1_design_1_1_factory_1_1_base_factory.html" title=" " alt="" coords="5,145,141,237"/>
+<area shape="rect" id="node3" href="$d9/d44/interface_patterns_1_1_design_1_1_factory_1_1_i_factory.html" title="Base interface for any factory." alt="" coords="107,5,243,97"/>
+<area shape="rect" id="node4" href="$d4/d1d/interface_patterns_1_1_architectural_1_1_m_v_c_1_1_interface_1_1_i_controller_factory.html" title=" " alt="" coords="165,145,387,237"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d44/interface_patterns_1_1_design_1_1_factory_1_1_i_factory.html" title="Base interface for any factory." alt="" coords="5,37,172,77"/>
+<area shape="rect" id="node2" href="$d4/d1d/interface_patterns_1_1_architectural_1_1_m_v_c_1_1_interface_1_1_i_controller_factory.html" title=" " alt="" coords="220,5,405,45"/>
+<area shape="rect" id="node4" href="$de/d1b/class_patterns_1_1_design_1_1_factory_1_1_base_factory.html" title=" " alt="" coords="229,69,396,109"/>
+<area shape="rect" id="node3" href="$d8/d10/class_patterns_1_1_architectural_1_1_m_v_c_1_1_abstract_controller_factory.html" title=" " alt="" coords="453,37,655,77"/>
+</map>

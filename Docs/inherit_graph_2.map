@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/d17/interface_patterns_1_1_architectural_1_1_m_v_c_1_1_interface_1_1_i_application.html" title="Base interface for MVC application." alt="" coords="37,5,222,45"/>
+<area shape="rect" id="node2" href="$d3/d69/class_patterns_1_1_architectural_1_1_m_v_c_1_1_base_mvc_application.html" title=" " alt="" coords="301,37,487,77"/>
+<area shape="rect" id="node3" href="$d2/dba/class_patterns_1_1_design_1_1_singleton_1_1_singleton.html" title=" " alt="" coords="5,69,253,109"/>
+</map>

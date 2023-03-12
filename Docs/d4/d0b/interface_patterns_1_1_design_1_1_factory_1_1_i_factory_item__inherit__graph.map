@@ -1,0 +1,4 @@
+<map id="Patterns.Design.Factory.IFactoryItem" name="Patterns.Design.Factory.IFactoryItem">
+<area shape="rect" id="node1" title="Base interface for any object that can be created by a factory." alt="" coords="15,5,181,97"/>
+<area shape="rect" id="node2" href="$d2/dee/interface_patterns_1_1_architectural_1_1_m_v_c_1_1_interface_1_1_i_controller.html" title=" " alt="" coords="5,145,191,252"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Patterns.Architectural.MVC.AbstractControllerFactory.CreateController" name="Patterns.Architectural.MVC.AbstractControllerFactory.CreateController">
+<area shape="rect" id="node1" title="Create a controller from the specified parameters." alt="" coords="5,5,217,60"/>
+<area shape="rect" id="node2" href="$d8/d10/class_patterns_1_1_architectural_1_1_m_v_c_1_1_abstract_controller_factory_af1a221f2fcacda1da48b74277af5e159.html#af1a221f2fcacda1da48b74277af5e159" title="Create a controller from the parameters specified through the template parameter." alt="" coords="265,5,477,60"/>
+</map>
