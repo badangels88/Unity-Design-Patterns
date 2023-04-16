@@ -9,5 +9,11 @@ namespace Utility.Extensions
             if (component != null)
                 component.gameObject.TrySetActive(active);
         }
+
+        public static void TryDestroyGameObject(this Component component)
+        {
+            if (component != null && component.gameObject != null)
+                Object.Destroy(component.gameObject);
+        }
     }
 }
